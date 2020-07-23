@@ -1,3 +1,3 @@
-# development-environment-variables
+# development-headers
 
-This example demonstrates that the Environment Variables specified in the "Development" section in the Project Settings will be downloaded by `vercel dev` automatically.
+This example demonstrates that `vercel dev` responds with the same headers as the platform.
